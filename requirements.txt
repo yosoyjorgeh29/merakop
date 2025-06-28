@@ -1,0 +1,6 @@
+-e .
+python-telegram-bot>=20.0
+requests
+pandas
+numpy
+ta
