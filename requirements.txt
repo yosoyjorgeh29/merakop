@@ -1,5 +1,6 @@
-python-telegram-bot[job-queue]==20.2
+python-telegram-bot>=20.0
 requests
 pandas
-twelvedata
-apscheduler
+numpy
+ta
+pocketoptionapi_async
