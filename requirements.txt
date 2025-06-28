@@ -4,3 +4,4 @@ pandas
 numpy
 ta
 pocketoptionapi_async
+git+https://github.com/ChipaDevTeam/PocketOptionAPI.git@main#egg=pocketoptionapi_async&subdirectory=pocketoptionapi_async
