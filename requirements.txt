@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==20.2
+requests
+pandas
+twelvedata
+apscheduler
